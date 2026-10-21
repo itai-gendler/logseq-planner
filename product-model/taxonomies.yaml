@@ -1,0 +1,13 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: The ordinary successful behavior.
+- id: alternate
+  name: Alternate
+  description: A supported route or materially different successful result.
+- id: validation
+  name: Validation
+  description: Input or state cannot support the requested result.
+- id: edge
+  name: Edge
+  description: A graph dependency fails or changes during use.

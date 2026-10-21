@@ -1,0 +1,7 @@
+schema: 11
+sdd:
+  paths:
+    - REQUIREMENTS.md
+    - docs/guide.md
+    - docs/limits.md
+    - docs/plugin-config.md
